@@ -99,7 +99,7 @@ public Cliente (String id,String nombre,String  direccion, String email , String
 
 }
 
-    /* Constructor */
+    /* Constructor
 
     public void  setFechaNacimiento ( ){
         if (  <=1 || >= 100) {
@@ -108,7 +108,7 @@ public Cliente (String id,String nombre,String  direccion, String email , String
         }
         this.setFechaNacimiento = ;
     }
-
+*/
 
 
 }
